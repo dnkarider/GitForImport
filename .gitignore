@@ -1,0 +1,7 @@
+# Ignore files
+tmp/
+.DS_Store
+img/.DS_Store
+index.html_old
+img/NeuroStartUp.png_backup
+img/Thumbs.db
